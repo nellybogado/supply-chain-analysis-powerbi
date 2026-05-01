@@ -25,11 +25,17 @@ Se identificó el proveedor óptimo según volumen y estructura de costos, mostr
 - comparacion-proveedores-volumen.png
 - analisis-escenarios-volumen.png
 
-- ## Dashboard general
+## Dashboard general
 ![Dashboard](dashboard-general.png)
+
+Este dashboard muestra la evolución del costo total según proveedor y volumen, permitiendo identificar economías de escala y tendencias de costos.
 
 ## Comparación de proveedores
 ![Comparación](comparacion-proveedores-volumen.png)
 
-## Escenarios de volumen
+Se comparan proveedores en distintos niveles de volumen para determinar cuál ofrece el menor costo total bajo diferentes escenarios.
+
+## Análisis de escenarios de volumen
 ![Escenarios](analisis-escenarios-volumen.png)
+
+Se evalúan distintos escenarios de producción para analizar el impacto del volumen en la estructura de costos y la selección óptima de proveedor.
